@@ -1,16 +1,14 @@
-## Hi there 👋
+# vexar
+Reverse engineering, systems and graphics.
+I build tools, take software apart and occasionally try to put it back together.
 
-<!--
-**vexarofc/vexarofc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### currently interested in
+- reverse engineering
+- Rust and low-level programming
+- graphics and rendering
+- developer tooling
+- protocols and automation
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### stuff I use
+`Rust` `Python` `PowerShell` `Lua`  
+`IDA Pro` `Git` `Linux` `Windows`
