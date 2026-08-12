@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./header.webp" width="100%">
+</p>
+
 # >_ vexar
 
 `reverse engineering` · `systems` · `graphics`
