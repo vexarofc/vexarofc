@@ -9,3 +9,6 @@ developer tooling · protocols · automation
 ### :: stack
 `Rust` `Python` `PowerShell` `Lua`  
 `IDA Pro` `Git` `Linux` `Windows`
+
+### :: currently
+mostly messing with Rust, binary analysis and graphics.
