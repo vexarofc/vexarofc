@@ -15,48 +15,42 @@ I build tools, take software apart, and occasionally try to put it back together
 
 Interested in how things work beneath the surface.
 
-Binary analysis, low-level systems, graphics programming,
-developer tooling, and anything worth taking apart.
+Binary analysis · low-level programming · graphics  
+Developer tooling · protocols · automation
 
 ### :: languages
 
 <p>
-  <img src="https://svgl-badge.vercel.app/api/Language/Rust?theme=dark" alt="Rust" />
-  <img src="https://svgl-badge.vercel.app/api/Language/Python?theme=dark" alt="Python" />
-  <img src="https://svgl-badge.vercel.app/api/Language/Lua?theme=dark" alt="Lua" />
-  <img src="https://svgl-badge.vercel.app/api/Language/PowerShell?theme=dark" alt="PowerShell" />
-  <img src="https://svgl-badge.vercel.app/api/Language/C%23?theme=dark" alt="C#" />
+  <img src="https://img.shields.io/badge/Rust-202127?style=flat-square&amp;logo=rust&amp;logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-202127?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Lua-202127?style=flat-square&amp;logo=lua&amp;logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/PowerShell-202127?style=flat-square&amp;logo=powershell&amp;logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/C%23-202127?style=flat-square&amp;logo=csharp&amp;logoColor=white" alt="C#" />
 </p>
 
 ### :: environment
 
 <p>
-  <img src="https://svgl-badge.vercel.app/api/Software/Git?theme=dark" alt="Git" />
-  <img src="https://svgl-badge.vercel.app/api/Software/Github?theme=dark" alt="GitHub" />
-  <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio%20Code?theme=dark" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IDA_Pro-202127?style=flat-square" alt="IDA Pro" />
+  <img src="https://img.shields.io/badge/Git-202127?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-202127?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-202127?style=flat-square&amp;logo=linux&amp;logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-202127?style=flat-square&amp;logo=windows&amp;logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/VS_Code-202127?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code" />
 </p>
-
-`IDA Pro` · `Linux` · `Windows`
-
-### :: selected work
-
-**ASMFlow**  
-Native assembly and control-flow graph visualization, built with Rust.
-
-**Luau tooling**  
-Bytecode analysis, decompilation experiments, and developer utilities.
 
 ### :: currently
 
-Exploring binary analysis, native tooling, and graphics.
+Exploring Rust, binary analysis, and native graphics tooling.
 
 ---
 
-<p align="center">
-  <a href="https://discord.gg/jAyAny9YgB">
-    <img src="https://svgl-badge.vercel.app/api/Software/Discord?theme=dark" alt="Discord" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-    <img src="https://svgl-badge.vercel.app/api/Software/Github?theme=dark" alt="Repositories" />
-  </a>
+### :: connect
+
+<a href="https://discord.com/users/1387821227699208375">
+  <img src="https://img.shields.io/badge/Discord-My_Profile-5865F2?style=flat-square&amp;logo=discord&amp;logoColor=white&amp;labelColor=202127" alt="Discord Profile" />
+</a>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&amp;style=flat-square&amp;color=202127&amp;label=visitors" alt="Profile views" />
 </p>
