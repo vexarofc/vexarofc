@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./header.webp" width="100%" alt="vexar" />
+  <img src="./header.svg" width="100%" alt="vexar" />
 </p>
 
 # >_ vexar
