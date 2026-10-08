@@ -52,5 +52,5 @@ Exploring Rust, binary analysis, and native graphics tooling.
 </a>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&amp;style=flat-square&amp;color=202127&amp;label=visitors" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vexarofc&amp;style=flat-square&amp;color=202127&amp;label=visitors" alt="Profile views" />
 </p>
