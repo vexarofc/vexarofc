@@ -7,16 +7,16 @@
 
 `reverse engineering` · `systems` · `graphics`
 
-I build tools, take software apart, and occasionally try to put it back together.
+i build tools, take software apart, and occasionally try to put it back together.
 
 ---
 
 ### :: about
 
-Interested in how things work beneath the surface.
+interested in how things work beneath the surface.
 
-Binary analysis · low-level programming · graphics  
-Developer tooling · protocols · automation
+binary analysis · low-level programming · graphics  
+developer tooling · protocols · automation
 
 ### :: languages
 
@@ -57,10 +57,6 @@ Developer tooling · protocols · automation
   <img src="https://img.shields.io/badge/VS_Code-161B22?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=E6EDF3" alt="VS Code" />
   <img src="https://img.shields.io/badge/PowerShell-161B22?style=flat-square&amp;logo=powershell&amp;logoColor=E6EDF3" alt="PowerShell" />
 </p>
-
-### :: currently
-
-Exploring Rust, binary analysis, and native graphics tooling.
 
 ---
 
